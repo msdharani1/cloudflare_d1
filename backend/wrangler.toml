@@ -1,0 +1,8 @@
+name = "ecommerce-backend"
+main = "src/index.js"
+compatibility_date = "2023-12-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "ecommerce_db"
+database_id = "9f7a066f-28f5-49da-8706-1e4bd424d44f"
